@@ -1,4 +1,4 @@
-﻿# The name of the executable to be created
+# The name of the executable to be created
 BIN_NAME = $(shell basename $$PWD)
 TEST_BIN_NAME = $(BIN_NAME)_test
 # Compiler used
